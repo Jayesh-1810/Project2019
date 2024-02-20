@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: project2019
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: patel
+Implementation-Vendor-Id: project2019
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/project2019/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
